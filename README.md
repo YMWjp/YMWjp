@@ -35,4 +35,3 @@ I'm an engineering student at the University of Tokyo passionate about the inter
 
 - 📧 Email: 030122yuta@gmail.com  
 - 🔗 LinkedIn: [linkedin.com/in/yuta-maesawa](https://www.linkedin.com/in/yuta-maesawa)  
-- 💼 Resume: [Available upon request or in pinned repositories]
