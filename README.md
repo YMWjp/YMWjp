@@ -30,11 +30,6 @@ I'm an engineering student at the University of Tokyo passionate about the inter
 
 ---
 
-## 📊 GitHub Stats
-
-![Yuta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YMWjp&show_icons=true&theme=tokyonight)
-
----
 
 ## 📫 Contact
 
